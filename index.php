@@ -12,7 +12,7 @@
 </head>
 <body>
 
-<!--Header-part-->
+<!--Header part-->
 <div id="header">
   <h1><a href="dashboard.php">Office Management</a></h1>
 </div>
